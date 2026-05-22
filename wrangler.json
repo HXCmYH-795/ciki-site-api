@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ciki-site-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "41ed16ea-2bb3-4392-bac6-0c5250930fdd",
+			"database_name": "cikisite-d1-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
